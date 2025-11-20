@@ -16,7 +16,7 @@ const LoginForm = () => {
           type="email"
           name="email"
           id="email"
-          className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-1 focus:ring-blue-500 focus:outline-none transition"
+          className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-2 focus:ring-blue-500 focus:outline-none transition"
         />
       </div>
 

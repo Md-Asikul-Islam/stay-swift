@@ -19,7 +19,7 @@ const RegistrationForm = () => {
             type="text"
             id="fname"
             name="fname"
-            className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-1 focus:ring-blue-500 focus:outline-none transition"
+            className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-2 focus:ring-blue-500 focus:outline-none transition"
           />
         </div>
 
@@ -34,7 +34,7 @@ const RegistrationForm = () => {
             type="text"
             id="lname"
             name="lname"
-            className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-1 focus:ring-blue-500 focus:outline-none transition"
+            className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-2 focus:ring-blue-500 focus:outline-none transition"
           />
         </div>
       </div>
@@ -50,7 +50,7 @@ const RegistrationForm = () => {
           type="email"
           id="email"
           name="email"
-          className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-1 focus:ring-blue-500 focus:outline-none transition"
+          className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-2 focus:ring-blue-500 focus:outline-none transition"
         />
       </div>
 
@@ -65,7 +65,7 @@ const RegistrationForm = () => {
           type="password"
           id="password"
           name="password"
-          className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-1 focus:ring-blue-500 focus:outline-none transition"
+          className="border border-gray-300 rounded-xl px-4 py-2 focus:ring-2 focus:ring-blue-500 focus:outline-none transition"
         />
       </div>
 

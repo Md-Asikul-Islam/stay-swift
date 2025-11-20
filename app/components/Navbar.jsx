@@ -17,7 +17,7 @@ const Navbar = () => {
             priority
             className="h-14 w-auto"
           />
-          <h3 className="text-2xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-500">
+          <h3 className="text-2xl font-extrabold bg-clip-text text-transparent bg-linear-to-r from-blue-600 to-indigo-500">
             Stay Swift
           </h3>
         </Link>
